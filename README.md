@@ -11,14 +11,14 @@ The package has one command: ***ChisholmD***. The description of the same can be
 ```
 ?ChisholmD
 ```
-The syntax of the command is as follows
+The syntax of the command is as follows:
 ```
 ChrislholmD[Series,{x0,y0,order},{x,y}]
 ```
 
-**Example file**
-If we store the series of Exp[x+y] in a variable ```Expseries``` then we can find its first order Chisholm approximant as follows:
+**Example**
+
+As an example, consider that we have stored the series of ```Exp[x+y]``` in a variable ```Expseries``` then we can find its first order Chisholm approximant around point ```(0,0)``` as follows:
 ```
 ChisholmD[Expseries,{0,0,1},{x,y}]
 ```
-
