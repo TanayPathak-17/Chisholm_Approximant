@@ -7,9 +7,13 @@ After setting the path, The ***ChisholmD.wl*** package can be called using the f
 ```
 <<ChisholmD.wl
 ```
-The package one command : *ChisholmD*. The description of the same can be found using the following command
+The package has one command: ***ChisholmD***. The description of the same can be found using the following command
 ```
 ?ChisholmD
+```
+The syntax of the command is as follows
+```
+ChrislholmD[Series,{x0,y0,order},{x,y}]
 ```
 
 **Example file**
