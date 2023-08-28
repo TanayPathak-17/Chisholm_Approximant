@@ -3,9 +3,9 @@ A Mathematica package to find diagonal approximant of bivariate series, which ar
 
 **Installation**
 
-To install the package one can simply copy and paste the package at the desired location. After that one can set the path for the directory as follows 
+To install the package one can copy and paste the package at the desired ***location***. After that one can set the path for the directory as follows 
 ```
-SetDirectory[Path_name]
+SetDirectory[Path of the location]
 ```
 After setting the path, The ***ChisholmD.wl*** package can be called using the following command
 ```
