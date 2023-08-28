@@ -1,5 +1,5 @@
-# Chrisholm_Approximant
-A Mathematica package to find diagonal approximants of bivariate series which are called the Chrisholm approximants.
+# Chrisholm Approximant
+A Mathematica package to find diagonal approximant of bivariate series which are called the Chrisholm approximant.
 
 **Installation**
 
