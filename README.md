@@ -3,7 +3,7 @@ A Mathematica package to find diagonal approximant of bivariate series, which ar
 
 **Installation**
 
-To install the package one can simply copy and paste the package at the desired location. After that one can set the path for directory as follows 
+To install the package one can simply copy and paste the package at the desired location. After that one can set the path for the directory as follows 
 ```
 SetDirectory[Path_name]
 ```
