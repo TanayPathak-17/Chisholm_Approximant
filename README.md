@@ -3,10 +3,15 @@ A Mathematica package to find diagonal approximant of bivariate series, which ar
 
 **Installation**
 
+To install the package one can simply copy and paste the package at the desired location. After that one can set the path for directory as follows 
+```
+SetDirectory[Path_name]
+```
 After setting the path, The ***ChisholmD.wl*** package can be called using the following command
 ```
 <<ChisholmD.wl
 ```
+
 The package has one command: ***ChisholmD***. The description of the same can be found using the following command
 ```
 ?ChisholmD
