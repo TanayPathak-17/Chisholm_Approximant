@@ -1,5 +1,5 @@
 # Chisholm Approximant
-A Mathematica package to find diagonal approximant of bivariate series, which are called the Chisholm approximant.
+A Mathematica package to find a diagonal approximant of a bivariate series, called the Chisholm approximant.
 
 **Installation**
 
@@ -23,7 +23,7 @@ ChrislholmD[Series,{x0,y0,order},{x,y}]
 
 **Example**
 
-As an example, consider that we have stored the series of ```Exp[x+y]``` in a variable ```Expseries``` then we can find its first order Chisholm approximant around point ```(0,0)``` as follows:
+As an example, consider that we have stored the series of ```Exp[x+y]``` in a variable ```Expseries```, then we can find its first order Chisholm approximant around point ```(0,0)``` as follows:
 ```
 ChisholmD[Expseries,{0,0,1},{x,y}]
 ```
