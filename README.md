@@ -29,3 +29,6 @@ As an example, consider that we have stored the series of ```Exp[x+y]``` in a va
 ```
 ChisholmD[Expseries,{0,0,1},{x,y}]
 ```
+A detailed demonstration of the package and various applications are presented in the paper.
+
+The repository also contains various notebooks of the examples and applications.
