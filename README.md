@@ -1,5 +1,7 @@
 # Chisholm Approximant
-A Mathematica package to find a diagonal approximant of a bivariate series, called the Chisholm approximant.
+A Mathematica package to find a diagonal approximant of a bivariate series, called the Chisholm approximant. The work is based on the following work
+
+[ChisholmD.wl- Automated rational approximant for bi-variate series](https://arxiv.org/abs/2309.07687).
 
 **Installation**
 
