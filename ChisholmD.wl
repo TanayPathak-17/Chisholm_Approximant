@@ -7,7 +7,7 @@ Print["ChisholmD.wl 1.0\n","Authors : Souvik Bera & Tanay Pathak"];
 
 
 ChisholmD::usage="The command gives the Chisholm approximant in two-variables.
- ChisholmD[series,{a,b,order},{variable 1, variable 2]";
+ ChisholmD[series,{a,b,order},{variable 1, variable 2}]";
 
 
 
